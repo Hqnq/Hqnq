@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hqnq
+- 👋 Hi, I’m @Hqnq or Hana
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 How to reach me @hqnqdev on twitter
